@@ -3,9 +3,7 @@
 ### I'm Joshua, I guess.
 
 #### I write software and I design things.
-I'm currently a Graduate Software Engineer at Sapiens
-and the Admin and Creative lead at [Overflow Digital](https://overflow.digital).
-
+I'm currently one half of [Overflow Digital](https://overflow.digital).
 
 <br>
 <br>
