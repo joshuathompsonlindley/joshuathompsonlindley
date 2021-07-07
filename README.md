@@ -3,7 +3,7 @@
 ### I'm Joshua, I guess.
 
 #### I write software and I design things.
-I'm currently one half of [Overflow Digital](https://overflow.digital).
+I'm currently one half of [Overflow Digital](https://overflow.digital) and a software engineer at [Cado Security](https://www.cadosecurity.com/).
 
 <br>
 <br>
