@@ -12,6 +12,6 @@ I’m also the Co-Founder and Head of Product and Technology at <a href="https:/
 </p>
 <br />
 <p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joshuathompsonlindley&layout=compact&exclude_repo=settings">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joshuathompsonlindley&layout=compact">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joshuathompsonlindley&show_icons=true">
 </p>
