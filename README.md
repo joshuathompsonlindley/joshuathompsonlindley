@@ -1,4 +1,3 @@
-<img align="left" height="200px" src="https://raw.githubusercontent.com/joshuathompsonlindley/joshuathompsonlindley/main/asset/me.jpg">
 <h1>👋 I'm Joshua, I guess.</h1>
 <p>
 Currently I’m a Backend Engineer (making steps to be Full Stack) at <a href="https://www.cadosecurity.com/">Cado Security</a>, where I help design and maintain the core processing engine for the first native cloud investigation platform.
