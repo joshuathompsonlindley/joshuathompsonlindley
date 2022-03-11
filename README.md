@@ -1,18 +1,17 @@
-<br>
-<img align="left" height="150px" src="https://raw.githubusercontent.com/joshuathompsonlindley/joshuathompsonlindley/main/asset/me.jpg">
-
-
+<img align="left" height="200px" src="https://raw.githubusercontent.com/joshuathompsonlindley/joshuathompsonlindley/main/asset/me.jpg">
+<h1>👋 I'm Joshua, I guess.</h1>
 <p>
-<h3>I'm Joshua, I guess.</h3>
-
-I'm currently one third of [Overflow Digital](https://overflow.digital) and a software engineer at [Cado Security](https://www.cadosecurity.com/).
-
-📫 How to reach me: [Email](mailto://joshua@overflow.digital) | [Website](https://joshuathompson.co.uk) | [LinkedIn](https://www.linkedin.com/in/joshuathompsonlindley/)
+Currently I’m a Backend Engineer (making steps to be Full Stack) at <a href="https://www.cadosecurity.com/">Cado Security</a>, where I help design and maintain the core processing engine for the first native cloud investigation platform.
 </p>
-
-<br>
-
+<p>
+I’m also the Co-Founder and Head of Product and Technology at <a href="https://overflow.digital">Overflow Digital</a>, a company I started with my friends to experiment and break things.
+</p>
+<h4 align="center">📫 How to reach me:</h4>     
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joshuathompsonlindley&layout=compact&exclude_repo=settings">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joshuathompsonlindley&show_icons=true">
+<a href="https://www.linkedin.com/in/joshuathompsonlindley/">LinkedIn</a> | <a href="https://joshuathompson.co.uk">Website</a> | <a href="https://open.spotify.com/user/nxxq0c7necw4ujd0sxt1hla5c?si=48d84c06417f4a9d">Spotify</a> | <a href="mailto://joshua@overflow.digital">Email</a>
+</p>
+<br />
+<p align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joshuathompsonlindley&layout=compact&exclude_repo=settings">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=joshuathompsonlindley&show_icons=true">
 </p>
