@@ -1,6 +1,6 @@
 <h1>👋 I'm Joshua, I guess.</h1>
 <p>
-Currently I’m a Full Stack Engineer at <a href="https://www.cadosecurity.com/">Cado Security</a>, where I help design and maintain the core processing engine for the first native cloud investigation platform.
+Currently I’m a Full Stack (kinda) Engineer at <a href="https://www.cadosecurity.com/">Cado Security</a>, where I help design and maintain the core processing engine for the first native cloud investigation platform.
 </p>
 <p>
 I’m also the Co-Founder and Head of Product and Technology at <a href="https://overflow.digital">Overflow Digital</a>, a company I started with my friends to experiment and break things.
